@@ -1,0 +1,12 @@
+.Feed-main-Container{
+
+  display: flex;
+
+flex-wrap: wrap;
+max-width: 55%;
+justify-content: space-evenly;
+gap: 50px;
+margin-top: 2% !important;
+margin-right: auto;
+
+}
